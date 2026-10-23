@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" group-title="TNT - test image et son",1 - TF1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/6BcUOQI1ioiG/sJ6v4zdGFoURmOYe.m3u8
+#EXTINF:-1 tvg-chno="2" group-title="TNT - test image et son",2 - France 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-2.m3u8
+#EXTINF:-1 tvg-chno="3" group-title="TNT - test image et son",3 - France 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france3.m3u8
+#EXTINF:-1 tvg-chno="6" group-title="TNT - test image et son",6 - M6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://5.180.164.197:8080/M6/index.m3u8
+#EXTINF:-1 tvg-chno="7" group-title="TNT - test image et son",7 - Arte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
+#EXTINF:-1 tvg-chno="8" group-title="TNT - test image et son",8 - LCP - Public Senat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
+#EXTINF:-1 tvg-chno="9" group-title="TNT - test image et son",9 - W9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://5.180.164.197:8080/W9/index.m3u8
